@@ -13,7 +13,9 @@
  */
 
 int print_sign(int n)
+	/* code goes here*/
 {
+	/*Declaration*/
 	if (n > 0)
 	{
 		_putchar(43);
