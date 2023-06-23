@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  * mul - multiples two integers.
