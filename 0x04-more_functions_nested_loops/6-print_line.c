@@ -2,8 +2,8 @@
 
 /**
  * print_line - A function that draws straight lines
- * @n: straight line is printed
- * Return: Always return 0.
+ * @n: times straight line is printed.
+ * Return: no return
  */
 
 void print_line(int n)
